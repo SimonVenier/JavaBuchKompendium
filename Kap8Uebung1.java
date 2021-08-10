@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Uebung1Kap8 {
+public class Kap8Uebung1 {
 
     public static void main(String[] args) {
 

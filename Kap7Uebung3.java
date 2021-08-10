@@ -2,7 +2,7 @@ package JavaBuch;
 
 import java.util.Scanner;
 
-public class Uebung3Kap7 {
+public class Kap7Uebung3 {
 
     public static void main(String[] args) {
 
